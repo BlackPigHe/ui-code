@@ -1,0 +1,9 @@
+.login_mark{
+    font-family: 微软雅黑;
+    position: absolute;
+    top: 10%;
+    font-size: 40px;
+    left: 50%;
+    margin-left: -280px;
+    letter-spacing:20px;
+}
